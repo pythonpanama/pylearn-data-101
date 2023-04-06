@@ -1,0 +1,6 @@
+.envs/
+**/.ipynb_checkpoints
+.idea
+**/__pycache__
+/output/
+/data/
