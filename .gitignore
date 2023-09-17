@@ -4,3 +4,5 @@
 **/__pycache__
 /output/
 /data/
+
+.jupyter/desktop-workspaces
